@@ -1,2 +1,2 @@
 # NetClanExplorer
-I tested login page and Profile module using Manual testing.
+I tested login page and Profile module using Manual Testing.
